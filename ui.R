@@ -102,7 +102,7 @@ tabPanel("Usage Documentation",
         h1("References and Additional Resources",style = "color:black"),
         h4("Contact us at support@pcomare.com to know more and customize the App as per your requirement"),
         h4("Alternatively, to know more about our company and product, you can log on to our website",a("www.pcompare.com", href = "http://www.pcompare.com ")),
-        h4("Access the Portfolio Compare App Presentation at",a("Keynote Presentation", href = "http://rpubs.com/karthikrv82/DDP"))
+        h4("Access the Portfolio Compare App Presentation at",a("Keynote Presentation", href = "http://rpubs.com/karthikrv82/RVK_DDP_PROJECT_PRESO"))
         
         
           )
